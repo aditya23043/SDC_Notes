@@ -15,4 +15,4 @@ create_clock -name EXT_CLK
   when clock edge occurs
 * So, for this example, the clock does not have 50% duty cycle
 
-![Clock Signal Generated](imgs/IMG_3140.heic)
+![Clock Signal Generated](imgs/IMG_3140.jpg)
