@@ -49,7 +49,7 @@ set_clock_latency 5 -source [get_clocks CLK]
 set_clock_latency 10 [get_clocks CLK]
 ```
 
-![Types of clk latency](imgs/IMG_3141.jpg)
+![Types of clk latency](imgs/IMG_3142.jpg)
 
 ## set_clock_uncertainity
 * Kind of like error margin
